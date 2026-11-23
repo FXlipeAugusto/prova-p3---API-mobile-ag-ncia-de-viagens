@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # agencia_de_viagens
 
 A new Flutter project.
