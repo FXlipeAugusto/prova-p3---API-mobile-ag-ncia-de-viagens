@@ -1,3 +1,4 @@
+
 # Agência de Viagens
 
 Aplicativo Flutter simples para gerenciar destinos de viagem. Permite listar, cadastrar, editar e excluir destinos, cada um com país e tipo de passeio.
@@ -63,3 +64,4 @@ flutter run
 ## Licença
 
 Projeto de estudo, sem licença definida.
+>>>>>>> 35ba13cdcddb065bb518008c6d53f2a55a515d8b
